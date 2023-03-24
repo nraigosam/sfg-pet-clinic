@@ -1,7 +1,7 @@
 package guru.springframework.sfgpetclinic.model;
 
 public class PetType extends BaseEntity{
-
+//test
     private String name;
 
     public String getName() {
