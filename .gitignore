@@ -141,3 +141,4 @@ Desktop.ini
 ######################
 .eslintcache
 pet-clinic-web/target/classes/templates
+/pet-clinic-web/target/
